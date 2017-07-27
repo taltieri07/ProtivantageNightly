@@ -1,0 +1,25 @@
+C:\ProtivantageNightly\ProtivantageNightly\bin\Debug\ProtivantageNightly.exe.config
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.frmTaskGenerator.resources
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.vbproj.GenerateResource.Cache
+C:\ProtivantageNightly\ProtivantageNightly\bin\Debug\CoumadinTracker.sdf
+C:\ProtivantageNightly\ProtivantageNightly\bin\Debug\ProtivantageNightly.exe
+C:\ProtivantageNightly\ProtivantageNightly\bin\Debug\ProtivantageNightly.pdb
+C:\ProtivantageNightly\ProtivantageNightly\bin\Debug\ProtivantageNightly.xml
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.exe
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.xml
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.pdb
+C:\ProtivantageNightly\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.FrmSettings.resources
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.frmCDSRuleDef.resources
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.FrmSettings.resources
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.frmTaskGenerator.resources
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.vbproj.GenerateResource.Cache
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.exe
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.xml
+C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.pdb
+C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\CoumadinTracker.sdf
+C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.exe.config
+C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.exe
+C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.pdb
+C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.xml
