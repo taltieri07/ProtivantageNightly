@@ -23,3 +23,7 @@ C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.ex
 C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.exe
 C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.pdb
 C:\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.xml
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\bin\Debug\ProtivantageNightly.exe.config
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.exe
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.xml
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Debug\ProtivantageNightly.pdb
