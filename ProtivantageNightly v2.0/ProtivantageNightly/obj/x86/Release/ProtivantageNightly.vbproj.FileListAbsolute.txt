@@ -23,3 +23,16 @@ C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplicati
 C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplication1.frmTaskGenerator.resources
 C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplication1.Resources.resources
 C:\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\ProtivantageNightly.vbproj.GenerateResource.Cache
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\bin\Release\CoumadinTracker.sdf
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\bin\Release\ProtivantageNightly.exe.config
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\bin\Release\ProtivantageNightly.exe
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\bin\Release\ProtivantageNightly.pdb
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\bin\Release\ProtivantageNightly.xml
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplication1.frmCDSRuleDef.resources
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplication1.FrmSettings.resources
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplication1.frmTaskGenerator.resources
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\ProtivantageNightly.vbproj.GenerateResource.Cache
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\ProtivantageNightly.exe
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\ProtivantageNightly.xml
+C:\dev\src\git\Protivantage\ProtivantageNightly\ProtivantageNightly v2.0\ProtivantageNightly\obj\x86\Release\ProtivantageNightly.pdb

@@ -84,27 +84,30 @@ Partial Class FrmSettings
         'ChkAllow5
         '
         Me.ChkAllow5.AutoSize = True
-        Me.ChkAllow5.Location = New System.Drawing.Point(550, 246)
+        Me.ChkAllow5.Location = New System.Drawing.Point(733, 303)
+        Me.ChkAllow5.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkAllow5.Name = "ChkAllow5"
-        Me.ChkAllow5.Size = New System.Drawing.Size(15, 14)
+        Me.ChkAllow5.Size = New System.Drawing.Size(18, 17)
         Me.ChkAllow5.TabIndex = 105
         Me.ChkAllow5.UseVisualStyleBackColor = True
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(438, 247)
+        Me.Label4.Location = New System.Drawing.Point(584, 304)
+        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(106, 13)
+        Me.Label4.Size = New System.Drawing.Size(141, 17)
         Me.Label4.TabIndex = 106
         Me.Label4.Text = "Allow User Override?"
         '
         'ChkAllow4
         '
         Me.ChkAllow4.AutoSize = True
-        Me.ChkAllow4.Location = New System.Drawing.Point(550, 178)
+        Me.ChkAllow4.Location = New System.Drawing.Point(733, 219)
+        Me.ChkAllow4.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkAllow4.Name = "ChkAllow4"
-        Me.ChkAllow4.Size = New System.Drawing.Size(15, 14)
+        Me.ChkAllow4.Size = New System.Drawing.Size(18, 17)
         Me.ChkAllow4.TabIndex = 103
         Me.ChkAllow4.UseVisualStyleBackColor = True
         Me.ChkAllow4.Visible = False
@@ -112,9 +115,10 @@ Partial Class FrmSettings
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(438, 179)
+        Me.Label3.Location = New System.Drawing.Point(584, 220)
+        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(106, 13)
+        Me.Label3.Size = New System.Drawing.Size(141, 17)
         Me.Label3.TabIndex = 104
         Me.Label3.Text = "Allow User Override?"
         Me.Label3.Visible = False
@@ -122,250 +126,279 @@ Partial Class FrmSettings
         'cmbODTaskType
         '
         Me.cmbODTaskType.FormattingEnabled = True
-        Me.cmbODTaskType.Location = New System.Drawing.Point(297, 204)
+        Me.cmbODTaskType.Location = New System.Drawing.Point(396, 251)
+        Me.cmbODTaskType.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbODTaskType.Name = "cmbODTaskType"
-        Me.cmbODTaskType.Size = New System.Drawing.Size(268, 21)
+        Me.cmbODTaskType.Size = New System.Drawing.Size(356, 24)
         Me.cmbODTaskType.TabIndex = 101
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(21, 208)
+        Me.Label1.Location = New System.Drawing.Point(28, 256)
+        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(102, 13)
+        Me.Label1.Size = New System.Drawing.Size(134, 17)
         Me.Label1.TabIndex = 102
         Me.Label1.Text = "Overdue Task Type"
         '
         'cmbODTaskPriority
         '
         Me.cmbODTaskPriority.FormattingEnabled = True
-        Me.cmbODTaskPriority.Location = New System.Drawing.Point(297, 179)
+        Me.cmbODTaskPriority.Location = New System.Drawing.Point(396, 220)
+        Me.cmbODTaskPriority.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbODTaskPriority.Name = "cmbODTaskPriority"
-        Me.cmbODTaskPriority.Size = New System.Drawing.Size(118, 21)
+        Me.cmbODTaskPriority.Size = New System.Drawing.Size(156, 24)
         Me.cmbODTaskPriority.TabIndex = 99
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(21, 183)
+        Me.Label2.Location = New System.Drawing.Point(28, 225)
+        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(146, 13)
+        Me.Label2.Size = New System.Drawing.Size(195, 17)
         Me.Label2.TabIndex = 100
         Me.Label2.Text = "Default Overdue Task Priority"
         '
         'cmbNoteType
         '
         Me.cmbNoteType.FormattingEnabled = True
-        Me.cmbNoteType.Location = New System.Drawing.Point(297, 152)
+        Me.cmbNoteType.Location = New System.Drawing.Point(396, 187)
+        Me.cmbNoteType.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbNoteType.Name = "cmbNoteType"
-        Me.cmbNoteType.Size = New System.Drawing.Size(268, 21)
+        Me.cmbNoteType.Size = New System.Drawing.Size(356, 24)
         Me.cmbNoteType.TabIndex = 97
         '
         'lblNoteType
         '
         Me.lblNoteType.AutoSize = True
-        Me.lblNoteType.Location = New System.Drawing.Point(21, 156)
+        Me.lblNoteType.Location = New System.Drawing.Point(28, 192)
+        Me.lblNoteType.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblNoteType.Name = "lblNoteType"
-        Me.lblNoteType.Size = New System.Drawing.Size(103, 13)
+        Me.lblNoteType.Size = New System.Drawing.Size(136, 17)
         Me.lblNoteType.TabIndex = 98
         Me.lblNoteType.Text = "Note Type to Create"
         '
         'cmbTaskType
         '
         Me.cmbTaskType.FormattingEnabled = True
-        Me.cmbTaskType.Location = New System.Drawing.Point(297, 126)
+        Me.cmbTaskType.Location = New System.Drawing.Point(396, 155)
+        Me.cmbTaskType.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbTaskType.Name = "cmbTaskType"
-        Me.cmbTaskType.Size = New System.Drawing.Size(268, 21)
+        Me.cmbTaskType.Size = New System.Drawing.Size(356, 24)
         Me.cmbTaskType.TabIndex = 95
         '
         'lblTaskName
         '
         Me.lblTaskName.AutoSize = True
-        Me.lblTaskName.Location = New System.Drawing.Point(21, 130)
+        Me.lblTaskName.Location = New System.Drawing.Point(28, 160)
+        Me.lblTaskName.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblTaskName.Name = "lblTaskName"
-        Me.lblTaskName.Size = New System.Drawing.Size(114, 13)
+        Me.lblTaskName.Size = New System.Drawing.Size(149, 17)
         Me.lblTaskName.TabIndex = 96
         Me.lblTaskName.Text = "Notification Task Type"
         '
         'NumMyInterval2
         '
-        Me.NumMyInterval2.Location = New System.Drawing.Point(297, 255)
+        Me.NumMyInterval2.Location = New System.Drawing.Point(396, 314)
+        Me.NumMyInterval2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.NumMyInterval2.Maximum = New Decimal(New Integer() {365, 0, 0, 0})
         Me.NumMyInterval2.Name = "NumMyInterval2"
-        Me.NumMyInterval2.Size = New System.Drawing.Size(56, 20)
+        Me.NumMyInterval2.Size = New System.Drawing.Size(75, 22)
         Me.NumMyInterval2.TabIndex = 86
         '
         'NumMyInterval1
         '
-        Me.NumMyInterval1.Location = New System.Drawing.Point(297, 232)
+        Me.NumMyInterval1.Location = New System.Drawing.Point(396, 286)
+        Me.NumMyInterval1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.NumMyInterval1.Maximum = New Decimal(New Integer() {365, 0, 0, 0})
         Me.NumMyInterval1.Name = "NumMyInterval1"
-        Me.NumMyInterval1.Size = New System.Drawing.Size(56, 20)
+        Me.NumMyInterval1.Size = New System.Drawing.Size(75, 22)
         Me.NumMyInterval1.TabIndex = 83
         '
         'lblDays2
         '
         Me.lblDays2.AutoSize = True
-        Me.lblDays2.Location = New System.Drawing.Point(359, 259)
+        Me.lblDays2.Location = New System.Drawing.Point(479, 319)
+        Me.lblDays2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblDays2.Name = "lblDays2"
-        Me.lblDays2.Size = New System.Drawing.Size(29, 13)
+        Me.lblDays2.Size = New System.Drawing.Size(38, 17)
         Me.lblDays2.TabIndex = 94
         Me.lblDays2.Text = "days"
         '
         'lblDays1
         '
         Me.lblDays1.AutoSize = True
-        Me.lblDays1.Location = New System.Drawing.Point(359, 236)
+        Me.lblDays1.Location = New System.Drawing.Point(479, 290)
+        Me.lblDays1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblDays1.Name = "lblDays1"
-        Me.lblDays1.Size = New System.Drawing.Size(29, 13)
+        Me.lblDays1.Size = New System.Drawing.Size(38, 17)
         Me.lblDays1.TabIndex = 93
         Me.lblDays1.Text = "days"
         '
         'lblInterval2
         '
         Me.lblInterval2.AutoSize = True
-        Me.lblInterval2.Location = New System.Drawing.Point(21, 259)
+        Me.lblInterval2.Location = New System.Drawing.Point(28, 319)
+        Me.lblInterval2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblInterval2.Name = "lblInterval2"
-        Me.lblInterval2.Size = New System.Drawing.Size(68, 13)
+        Me.lblInterval2.Size = New System.Drawing.Size(88, 17)
         Me.lblInterval2.TabIndex = 92
         Me.lblInterval2.Text = "My Interval 2"
         '
         'lblInterval1
         '
         Me.lblInterval1.AutoSize = True
-        Me.lblInterval1.Location = New System.Drawing.Point(21, 236)
+        Me.lblInterval1.Location = New System.Drawing.Point(28, 290)
+        Me.lblInterval1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblInterval1.Name = "lblInterval1"
-        Me.lblInterval1.Size = New System.Drawing.Size(68, 13)
+        Me.lblInterval1.Size = New System.Drawing.Size(88, 17)
         Me.lblInterval1.TabIndex = 91
         Me.lblInterval1.Text = "My Interval 1"
         '
         'ChkAllow3
         '
         Me.ChkAllow3.AutoSize = True
-        Me.ChkAllow3.Location = New System.Drawing.Point(550, 102)
+        Me.ChkAllow3.Location = New System.Drawing.Point(733, 126)
+        Me.ChkAllow3.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkAllow3.Name = "ChkAllow3"
-        Me.ChkAllow3.Size = New System.Drawing.Size(15, 14)
+        Me.ChkAllow3.Size = New System.Drawing.Size(18, 17)
         Me.ChkAllow3.TabIndex = 81
         Me.ChkAllow3.UseVisualStyleBackColor = True
         '
         'cmbTaskPriority
         '
         Me.cmbTaskPriority.FormattingEnabled = True
-        Me.cmbTaskPriority.Location = New System.Drawing.Point(297, 101)
+        Me.cmbTaskPriority.Location = New System.Drawing.Point(396, 124)
+        Me.cmbTaskPriority.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbTaskPriority.Name = "cmbTaskPriority"
-        Me.cmbTaskPriority.Size = New System.Drawing.Size(118, 21)
+        Me.cmbTaskPriority.Size = New System.Drawing.Size(156, 24)
         Me.cmbTaskPriority.TabIndex = 80
         '
         'lblTaskAllowOverride
         '
         Me.lblTaskAllowOverride.AutoSize = True
-        Me.lblTaskAllowOverride.Location = New System.Drawing.Point(438, 103)
+        Me.lblTaskAllowOverride.Location = New System.Drawing.Point(584, 127)
+        Me.lblTaskAllowOverride.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblTaskAllowOverride.Name = "lblTaskAllowOverride"
-        Me.lblTaskAllowOverride.Size = New System.Drawing.Size(106, 13)
+        Me.lblTaskAllowOverride.Size = New System.Drawing.Size(141, 17)
         Me.lblTaskAllowOverride.TabIndex = 90
         Me.lblTaskAllowOverride.Text = "Allow User Override?"
         '
         'lblTaskPriority
         '
         Me.lblTaskPriority.AutoSize = True
-        Me.lblTaskPriority.Location = New System.Drawing.Point(21, 105)
+        Me.lblTaskPriority.Location = New System.Drawing.Point(28, 129)
+        Me.lblTaskPriority.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblTaskPriority.Name = "lblTaskPriority"
-        Me.lblTaskPriority.Size = New System.Drawing.Size(158, 13)
+        Me.lblTaskPriority.Size = New System.Drawing.Size(210, 17)
         Me.lblTaskPriority.TabIndex = 89
         Me.lblTaskPriority.Text = "Default Notification Task Priority"
         '
         'ChkAllow2
         '
         Me.ChkAllow2.AutoSize = True
-        Me.ChkAllow2.Location = New System.Drawing.Point(550, 80)
+        Me.ChkAllow2.Location = New System.Drawing.Point(733, 98)
+        Me.ChkAllow2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkAllow2.Name = "ChkAllow2"
-        Me.ChkAllow2.Size = New System.Drawing.Size(15, 14)
+        Me.ChkAllow2.Size = New System.Drawing.Size(18, 17)
         Me.ChkAllow2.TabIndex = 78
         Me.ChkAllow2.UseVisualStyleBackColor = True
         '
         'ChkAllow1
         '
         Me.ChkAllow1.AutoSize = True
-        Me.ChkAllow1.Location = New System.Drawing.Point(550, 56)
+        Me.ChkAllow1.Location = New System.Drawing.Point(733, 69)
+        Me.ChkAllow1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkAllow1.Name = "ChkAllow1"
-        Me.ChkAllow1.Size = New System.Drawing.Size(15, 14)
+        Me.ChkAllow1.Size = New System.Drawing.Size(18, 17)
         Me.ChkAllow1.TabIndex = 76
         Me.ChkAllow1.UseVisualStyleBackColor = True
         '
         'lblUserOverrideNotify
         '
         Me.lblUserOverrideNotify.AutoSize = True
-        Me.lblUserOverrideNotify.Location = New System.Drawing.Point(438, 81)
+        Me.lblUserOverrideNotify.Location = New System.Drawing.Point(584, 100)
+        Me.lblUserOverrideNotify.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblUserOverrideNotify.Name = "lblUserOverrideNotify"
-        Me.lblUserOverrideNotify.Size = New System.Drawing.Size(106, 13)
+        Me.lblUserOverrideNotify.Size = New System.Drawing.Size(141, 17)
         Me.lblUserOverrideNotify.TabIndex = 85
         Me.lblUserOverrideNotify.Text = "Allow User Override?"
         '
         'lblUserOverrideOverdue
         '
         Me.lblUserOverrideOverdue.AutoSize = True
-        Me.lblUserOverrideOverdue.Location = New System.Drawing.Point(438, 57)
+        Me.lblUserOverrideOverdue.Location = New System.Drawing.Point(584, 70)
+        Me.lblUserOverrideOverdue.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblUserOverrideOverdue.Name = "lblUserOverrideOverdue"
-        Me.lblUserOverrideOverdue.Size = New System.Drawing.Size(106, 13)
+        Me.lblUserOverrideOverdue.Size = New System.Drawing.Size(141, 17)
         Me.lblUserOverrideOverdue.TabIndex = 84
         Me.lblUserOverrideOverdue.Text = "Allow User Override?"
         '
         'lblDefaultNotify
         '
         Me.lblDefaultNotify.AutoSize = True
-        Me.lblDefaultNotify.Location = New System.Drawing.Point(21, 81)
+        Me.lblDefaultNotify.Location = New System.Drawing.Point(28, 100)
+        Me.lblDefaultNotify.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblDefaultNotify.Name = "lblDefaultNotify"
-        Me.lblDefaultNotify.Size = New System.Drawing.Size(201, 13)
+        Me.lblDefaultNotify.Size = New System.Drawing.Size(264, 17)
         Me.lblDefaultNotify.TabIndex = 82
         Me.lblDefaultNotify.Text = "Overdue Notification Checked by Default"
         '
         'ChkDefaultNotify
         '
         Me.ChkDefaultNotify.AutoSize = True
-        Me.ChkDefaultNotify.Location = New System.Drawing.Point(297, 80)
+        Me.ChkDefaultNotify.Location = New System.Drawing.Point(396, 98)
+        Me.ChkDefaultNotify.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkDefaultNotify.Name = "ChkDefaultNotify"
-        Me.ChkDefaultNotify.Size = New System.Drawing.Size(15, 14)
+        Me.ChkDefaultNotify.Size = New System.Drawing.Size(18, 17)
         Me.ChkDefaultNotify.TabIndex = 77
         Me.ChkDefaultNotify.UseVisualStyleBackColor = True
         '
         'lblDefaultOverdueInterval
         '
         Me.lblDefaultOverdueInterval.AutoSize = True
-        Me.lblDefaultOverdueInterval.Location = New System.Drawing.Point(21, 57)
+        Me.lblDefaultOverdueInterval.Location = New System.Drawing.Point(28, 70)
+        Me.lblDefaultOverdueInterval.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblDefaultOverdueInterval.Name = "lblDefaultOverdueInterval"
-        Me.lblDefaultOverdueInterval.Size = New System.Drawing.Size(168, 13)
+        Me.lblDefaultOverdueInterval.Size = New System.Drawing.Size(223, 17)
         Me.lblDefaultOverdueInterval.TabIndex = 79
         Me.lblDefaultOverdueInterval.Text = "Default Value for Overdue Interval"
         '
         'NumDefaultOverdueInterval
         '
-        Me.NumDefaultOverdueInterval.Location = New System.Drawing.Point(297, 53)
+        Me.NumDefaultOverdueInterval.Location = New System.Drawing.Point(396, 65)
+        Me.NumDefaultOverdueInterval.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.NumDefaultOverdueInterval.Name = "NumDefaultOverdueInterval"
-        Me.NumDefaultOverdueInterval.Size = New System.Drawing.Size(60, 20)
+        Me.NumDefaultOverdueInterval.Size = New System.Drawing.Size(80, 22)
         Me.NumDefaultOverdueInterval.TabIndex = 75
         '
         'lblFlowsheet
         '
         Me.lblFlowsheet.AutoSize = True
-        Me.lblFlowsheet.Location = New System.Drawing.Point(21, 33)
+        Me.lblFlowsheet.Location = New System.Drawing.Point(28, 41)
+        Me.lblFlowsheet.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblFlowsheet.Name = "lblFlowsheet"
-        Me.lblFlowsheet.Size = New System.Drawing.Size(86, 13)
+        Me.lblFlowsheet.Size = New System.Drawing.Size(112, 17)
         Me.lblFlowsheet.TabIndex = 74
         Me.lblFlowsheet.Text = "Flowsheet Name"
         '
         'txtFlowsheet
         '
-        Me.txtFlowsheet.Location = New System.Drawing.Point(297, 28)
+        Me.txtFlowsheet.Location = New System.Drawing.Point(396, 34)
+        Me.txtFlowsheet.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtFlowsheet.Name = "txtFlowsheet"
-        Me.txtFlowsheet.Size = New System.Drawing.Size(268, 20)
+        Me.txtFlowsheet.Size = New System.Drawing.Size(356, 22)
         Me.txtFlowsheet.TabIndex = 72
         '
         'ChkEdited
         '
         Me.ChkEdited.AutoSize = True
-        Me.ChkEdited.Location = New System.Drawing.Point(497, 5)
+        Me.ChkEdited.Location = New System.Drawing.Point(663, 6)
+        Me.ChkEdited.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ChkEdited.Name = "ChkEdited"
-        Me.ChkEdited.Size = New System.Drawing.Size(56, 17)
+        Me.ChkEdited.Size = New System.Drawing.Size(70, 21)
         Me.ChkEdited.TabIndex = 73
         Me.ChkEdited.Text = "Edited"
         Me.ChkEdited.UseVisualStyleBackColor = True
@@ -373,18 +406,20 @@ Partial Class FrmSettings
         '
         'BtnCancel
         '
-        Me.BtnCancel.Location = New System.Drawing.Point(465, 414)
+        Me.BtnCancel.Location = New System.Drawing.Point(620, 510)
+        Me.BtnCancel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.BtnCancel.Name = "BtnCancel"
-        Me.BtnCancel.Size = New System.Drawing.Size(100, 24)
+        Me.BtnCancel.Size = New System.Drawing.Size(133, 30)
         Me.BtnCancel.TabIndex = 88
         Me.BtnCancel.Text = "&Cancel"
         Me.BtnCancel.UseVisualStyleBackColor = True
         '
         'BtnSave
         '
-        Me.BtnSave.Location = New System.Drawing.Point(297, 414)
+        Me.BtnSave.Location = New System.Drawing.Point(396, 510)
+        Me.BtnSave.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.BtnSave.Name = "BtnSave"
-        Me.BtnSave.Size = New System.Drawing.Size(100, 24)
+        Me.BtnSave.Size = New System.Drawing.Size(133, 30)
         Me.BtnSave.TabIndex = 87
         Me.BtnSave.Text = "&Save"
         Me.BtnSave.UseVisualStyleBackColor = True
@@ -393,9 +428,10 @@ Partial Class FrmSettings
         '
         Me.BtnTaskGeneration.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.5!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BtnTaskGeneration.ForeColor = System.Drawing.Color.Red
-        Me.BtnTaskGeneration.Location = New System.Drawing.Point(23, 414)
+        Me.BtnTaskGeneration.Location = New System.Drawing.Point(31, 510)
+        Me.BtnTaskGeneration.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.BtnTaskGeneration.Name = "BtnTaskGeneration"
-        Me.BtnTaskGeneration.Size = New System.Drawing.Size(218, 24)
+        Me.BtnTaskGeneration.Size = New System.Drawing.Size(291, 30)
         Me.BtnTaskGeneration.TabIndex = 107
         Me.BtnTaskGeneration.Text = "&Run Manual Task Generation"
         Me.BtnTaskGeneration.UseVisualStyleBackColor = True
@@ -403,34 +439,38 @@ Partial Class FrmSettings
         'lblAdminUser
         '
         Me.lblAdminUser.AutoSize = True
-        Me.lblAdminUser.Location = New System.Drawing.Point(21, 283)
+        Me.lblAdminUser.Location = New System.Drawing.Point(28, 348)
+        Me.lblAdminUser.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblAdminUser.Name = "lblAdminUser"
-        Me.lblAdminUser.Size = New System.Drawing.Size(210, 13)
+        Me.lblAdminUser.Size = New System.Drawing.Size(284, 17)
         Me.lblAdminUser.TabIndex = 108
         Me.lblAdminUser.Text = "Admin User (receives nightly task summary)"
         '
         'cmbAdminUser
         '
         Me.cmbAdminUser.FormattingEnabled = True
-        Me.cmbAdminUser.Location = New System.Drawing.Point(297, 280)
+        Me.cmbAdminUser.Location = New System.Drawing.Point(396, 345)
+        Me.cmbAdminUser.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbAdminUser.Name = "cmbAdminUser"
-        Me.cmbAdminUser.Size = New System.Drawing.Size(144, 21)
+        Me.cmbAdminUser.Size = New System.Drawing.Size(191, 24)
         Me.cmbAdminUser.TabIndex = 109
         '
         'lblInactivity
         '
         Me.lblInactivity.AutoSize = True
-        Me.lblInactivity.Location = New System.Drawing.Point(21, 335)
+        Me.lblInactivity.Location = New System.Drawing.Point(28, 412)
+        Me.lblInactivity.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblInactivity.Name = "lblInactivity"
-        Me.lblInactivity.Size = New System.Drawing.Size(136, 13)
+        Me.lblInactivity.Size = New System.Drawing.Size(180, 17)
         Me.lblInactivity.TabIndex = 111
         Me.lblInactivity.Text = "Inactivity Timeout (Minutes)"
         '
         'numTimeout
         '
-        Me.numTimeout.Location = New System.Drawing.Point(297, 333)
+        Me.numTimeout.Location = New System.Drawing.Point(396, 410)
+        Me.numTimeout.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.numTimeout.Name = "numTimeout"
-        Me.numTimeout.Size = New System.Drawing.Size(56, 20)
+        Me.numTimeout.Size = New System.Drawing.Size(75, 22)
         Me.numTimeout.TabIndex = 112
         '
         'ShapeContainer1
@@ -439,73 +479,77 @@ Partial Class FrmSettings
         Me.ShapeContainer1.Margin = New System.Windows.Forms.Padding(0)
         Me.ShapeContainer1.Name = "ShapeContainer1"
         Me.ShapeContainer1.Shapes.AddRange(New Microsoft.VisualBasic.PowerPacks.Shape() {Me.LineShape4, Me.LineShape3, Me.LineShape2, Me.LineShape1})
-        Me.ShapeContainer1.Size = New System.Drawing.Size(591, 449)
+        Me.ShapeContainer1.Size = New System.Drawing.Size(788, 553)
         Me.ShapeContainer1.TabIndex = 113
         Me.ShapeContainer1.TabStop = False
         '
         'LineShape4
         '
         Me.LineShape4.Name = "LineShape4"
-        Me.LineShape4.X1 = 413
-        Me.LineShape4.X2 = 413
-        Me.LineShape4.Y1 = 243
-        Me.LineShape4.Y2 = 266
+        Me.LineShape4.X1 = 553
+        Me.LineShape4.X2 = 553
+        Me.LineShape4.Y1 = 302
+        Me.LineShape4.Y2 = 325
         '
         'LineShape3
         '
         Me.LineShape3.Name = "LineShape3"
-        Me.LineShape3.X1 = 413
-        Me.LineShape3.X2 = 437
-        Me.LineShape3.Y1 = 254
-        Me.LineShape3.Y2 = 254
+        Me.LineShape3.X1 = 553
+        Me.LineShape3.X2 = 577
+        Me.LineShape3.Y1 = 313
+        Me.LineShape3.Y2 = 313
         '
         'LineShape2
         '
         Me.LineShape2.Name = "LineShape2"
-        Me.LineShape2.X1 = 388
-        Me.LineShape2.X2 = 412
-        Me.LineShape2.Y1 = 266
-        Me.LineShape2.Y2 = 266
+        Me.LineShape2.X1 = 528
+        Me.LineShape2.X2 = 552
+        Me.LineShape2.Y1 = 325
+        Me.LineShape2.Y2 = 325
         '
         'LineShape1
         '
         Me.LineShape1.Name = "LineShape1"
-        Me.LineShape1.X1 = 388
-        Me.LineShape1.X2 = 412
-        Me.LineShape1.Y1 = 243
-        Me.LineShape1.Y2 = 243
+        Me.LineShape1.X1 = 528
+        Me.LineShape1.X2 = 552
+        Me.LineShape1.Y1 = 302
+        Me.LineShape1.Y2 = 302
         '
         'cmbAdminTaskType
         '
         Me.cmbAdminTaskType.FormattingEnabled = True
-        Me.cmbAdminTaskType.Location = New System.Drawing.Point(297, 306)
+        Me.cmbAdminTaskType.Location = New System.Drawing.Point(396, 377)
+        Me.cmbAdminTaskType.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.cmbAdminTaskType.Name = "cmbAdminTaskType"
-        Me.cmbAdminTaskType.Size = New System.Drawing.Size(268, 21)
+        Me.cmbAdminTaskType.Size = New System.Drawing.Size(356, 24)
         Me.cmbAdminTaskType.TabIndex = 114
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(21, 310)
+        Me.Label5.Location = New System.Drawing.Point(28, 382)
+        Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(211, 13)
+        Me.Label5.Size = New System.Drawing.Size(285, 17)
         Me.Label5.TabIndex = 115
         Me.Label5.Text = "Admin Task Type (for nightly task summary)"
         '
         'lblINRName
         '
         Me.lblINRName.AutoSize = True
-        Me.lblINRName.Location = New System.Drawing.Point(21, 360)
+        Me.lblINRName.Location = New System.Drawing.Point(28, 443)
+        Me.lblINRName.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblINRName.Name = "lblINRName"
-        Me.lblINRName.Size = New System.Drawing.Size(155, 13)
+        Me.lblINRName.Size = New System.Drawing.Size(204, 17)
         Me.lblINRName.TabIndex = 117
         Me.lblINRName.Text = "Dictionary Name for INR Result"
         '
         'txtINRName
         '
-        Me.txtINRName.Location = New System.Drawing.Point(297, 357)
+        Me.txtINRName.Location = New System.Drawing.Point(396, 439)
+        Me.txtINRName.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtINRName.Name = "txtINRName"
-        Me.txtINRName.Size = New System.Drawing.Size(116, 20)
+        Me.txtINRName.Size = New System.Drawing.Size(153, 22)
         Me.txtINRName.TabIndex = 116
         '
         'btnCDS
@@ -513,18 +557,19 @@ Partial Class FrmSettings
         Me.btnCDS.BackColor = System.Drawing.Color.Plum
         Me.btnCDS.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.5!, System.Drawing.FontStyle.Bold)
         Me.btnCDS.ForeColor = System.Drawing.Color.MidnightBlue
-        Me.btnCDS.Location = New System.Drawing.Point(414, 383)
+        Me.btnCDS.Location = New System.Drawing.Point(552, 471)
+        Me.btnCDS.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnCDS.Name = "btnCDS"
-        Me.btnCDS.Size = New System.Drawing.Size(151, 22)
+        Me.btnCDS.Size = New System.Drawing.Size(201, 27)
         Me.btnCDS.TabIndex = 118
         Me.btnCDS.Text = "C&DS Rule Definitions"
         Me.btnCDS.UseVisualStyleBackColor = False
         '
         'FrmSettings
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(591, 449)
+        Me.ClientSize = New System.Drawing.Size(788, 553)
         Me.Controls.Add(Me.btnCDS)
         Me.Controls.Add(Me.lblINRName)
         Me.Controls.Add(Me.txtINRName)
@@ -571,6 +616,7 @@ Partial Class FrmSettings
         Me.Controls.Add(Me.BtnCancel)
         Me.Controls.Add(Me.BtnSave)
         Me.Controls.Add(Me.ShapeContainer1)
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.Name = "FrmSettings"
         Me.Text = "Protivantage Settings"
         CType(Me.NumMyInterval2, System.ComponentModel.ISupportInitialize).EndInit()
